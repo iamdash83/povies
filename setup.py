@@ -1,3 +1,4 @@
+#!python2
 from setuptools import setup
 import re
 from setuptools import setup, find_packages
